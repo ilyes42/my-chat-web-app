@@ -19,7 +19,7 @@
   "homepage": "https://github.com/ilyes42/my-chat-web-app#readme",
   "dependencies": {
     "bootstrap": "^4.5.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jquery": "^3.5.1",
     "socket.io": "^2.3.0"
   },
